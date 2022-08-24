@@ -1,0 +1,45 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.media-ex{
+   
+    margin-top: 5%;
+}
+.media-ex h3{
+    text-align: center;
+}
+.media-ex p{
+    font-size: 18px;
+    line-height: 1.8;
+    color: #585858;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+.grid-box{
+    margin-top: 5%;
+    margin-left: 16%;
+}
+@media only screen and (max-width: 400px){
+    .media-ex p{
+        font-size: 15px;
+        line-height: 1.5;
+        color: #585858;
+        width: 80%;
+        margin-left: 8%;
+        
+
+}
+}
+@media only screen and (max-width: 800px){
+    .media-ex p{
+        font-size: 15px;
+        line-height: 1.5;
+        color: #585858;
+        width: 80%;
+        margin-left: 8%;
+        
+
+}
+}
